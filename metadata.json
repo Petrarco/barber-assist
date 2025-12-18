@@ -1,0 +1,7 @@
+{
+  "name": "BarberAssistAI",
+  "description": "Um sistema de gerenciamento para barbearias com assistente de voz inteligente powered by Gemini Live para gerenciar agendamentos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
